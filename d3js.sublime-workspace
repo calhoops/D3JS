@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"tas",
+				"taskList"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"t",
+				"this	$(this)"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"slid",
+				"slideDown	.slideDown()"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tag",
+				"tagline"
+			],
+			[
+				"tou",
+				"touts"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"Se",
+				"section	Tag"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"su",
+				"submit	.submit()"
+			],
+			[
+				"COM",
+				"computerChoice"
+			],
+			[
+				"PLA",
+				"playerChoice"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"learnm",
+				"learnmoretext"
+			],
+			[
+				"read",
+				"readlesstext"
+			],
+			[
+				"readmoe",
+				"readmoretext"
+			],
+			[
+				"cla",
+				"clearLights"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bu",
+				"Buttons"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"st",
+				"list-style"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"n",
+				"NAV	Tag"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"mart",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"lef",
+				"padding-left"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"c",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 361.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/about.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/css/main.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/js/main.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week7/CodeAlong/startup_matchmaker_responsive/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/spaces.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/places.html",
+		"/C/Users/Callum Hooper/Downloads/snazzy-maps-example-map-style-1-style.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/js/plugins.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/maptest.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week8/Week8Assignment/js/script.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/map.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week8/Week8Assignment/register.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week8/Week8Assignment/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week8/Week8Assignment/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week6/Week6Assignment/js/script.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week6/Week6Assignment/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week6/Week6Assignment/Brief/Week_06_AssignmentBrief.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week7/Week7Assignment/blog.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week7/Week7Assignment/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week7/Week7Assignment/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week8/CodeAlong/ToDo/js/main.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week8/CodeAlong/ToDo/css/main.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week8/CodeAlong/ToDo/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/codealong/score_keeper/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week8/CodeAlong/application_form/css/main.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week8/CodeAlong/application_form/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week7/CodeAlong/startup_matchmaker_responsive/js/index.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week6/CodeAlong/rock_paper_scissors/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/doc/usage.md",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Major_Project/PopThatPlace/css/normalize.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week7/CodeAlong/startup_matchmaker_responsive/blog.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week7/CodeAlong/startup_matchmaker_responsive/css/main.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week7/CodeAlong/responsive_basics/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week7/CodeAlong/responsive_basics/js/index.js",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 3/Startup_Matchmaker/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week7/CodeAlong/responsive_basics/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/4_layout_challenge/css/style1.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/4_layout_challenge/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/Week5_Assignment/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/Week5_Assignment/js/script.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/Week5_Assignment/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/Week5_Assignment/images/austin.jpg",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/codealong/score_keeper/js/script.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week6/CodeAlong/rock_paper_scissors/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/Week5_Assignment/images/citipix_skyline.jpg",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week6/CodeAlong/rock_paper_scissors/js/script.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/codealong/compare_that/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/codealong/compare_that/js/index.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/codealong/compare_that/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/codealong/blackout/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/codealong/blackout/js/index.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week5/codealong/blackout/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week4/Assignment/Week4_Assignment/js/index.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week4/Assignment/Week4_Assignment/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week4/Assignment/Week4_Assignment/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week4/CodeAlong/traffic_light/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week4/CodeAlong/traffic_light/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week4/CodeAlong/traffic_light/js/index.js",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Week4/CodeAlong/traffic-light-js/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 3/week3_e5/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 3/week3_e5/css/style.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 3/Week3_Assignment/starter_code/readme",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 4/Class Materials/get_target_temperature.js",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 4/Class Materials/get_target_temperature.js_.txt",
+		"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/Final_Assignment/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Week 2 Assignment/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Week 2 Assignment/css/style.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Week 2 Assignment/design_file.txt",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Assignments/HW1-Feedback-Hooper_Callum.txt",
+		"/C/Users/Callum Hooper/Documents/GitHub/calhoops.github.io/css/style.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/4_layout_challenge/css/style2.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/Week2_Assignment/starter_code/design_file.txt",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/4_layout_challenge/index2.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/3_error_message/css/style.css",
+		"/C/Users/Callum Hooper/AppData/Roaming/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/3_error_message/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/nested_selectors/css/style.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/Week2_Assignment/starter_code/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/Week2_Assignment/starter_code/css/style.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/Week2_Assignment/starter_code/css/normalize.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/tags_boxes/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 2/Class Work/tags_boxes/css/style.css",
+		"/C/Users/Callum Hooper/Documents/GitHub/calhoops.github.io/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Assignments/Week 1 - Assignment/css/style.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Assignments/Week 1 - Assignment/about_me.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 1/Class Work/Week_01_Assignment_starter_code/starter_code/sample_copy.txt",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Assignments/Week 1 - Assignment/portfolio.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Assignments/Week 1 - Assignment/css/colors.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Assignments/W1-Assignment/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 1/Class Work/Image_test/css/colors.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 1/Class Work/Image_test/css/style.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 1/Class Work/Image_test/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 1/Class Work/cookie_recipe/css/style.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 1/Class Work/cookie_recipe/index.html",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 1/Week 1.txt",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 1/Class Work/cookie_recipe/style.css",
+		"/C/Users/Callum Hooper/Google Drive/GA - FWED/Week 1/Class Work/ga_press_release/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/Leaflet_Test/index.html",
+		"/C/Users/Callum Hooper/Documents/GitHub/GA-Prework-Project-1/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"append",
+			"	\n",
+			"displa",
+			"inline"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Callum Hooper/Documents/GitHub/Fewd11Mel/GA_Sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true
+}
